@@ -7,7 +7,7 @@
 
 
 4. Submit request and wait for validations
-----------------
+-------------------------------------------
 
 4.1. Submit DOI request
 ========================
@@ -18,6 +18,8 @@
 
 .. note::
 	At this point, your folder will move to a new location under Community Data/commons_repo/staging.
+
+-----
 	
 4.2. Validations
 ========================
@@ -41,7 +43,8 @@ Next Steps:
 
  5. `After publication <step5.rst>`_
 
-----------
+------
+
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
@@ -68,10 +71,6 @@ Next Steps:
    # Use this example to ensure that links open in new tabs, avoiding
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
    
 .. |Viewing and Deleting Notifications|  raw:: html
 

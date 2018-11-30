@@ -7,10 +7,10 @@
 
 
 5. After publication
-----------------
+----------------------
 
 5.1. Get your dataset noticed.
-========================
+==============================
 
 Metadata, the description about your data, is key to getting your dataset noticed in the world wide web. Search engines and bibliographic aggregators index the metadata that you create to obtain a DOI. Thus, it is important that you do the following:
 	- Make sure the metadata are complete.
@@ -20,7 +20,7 @@ Metadata, the description about your data, is key to getting your dataset notice
 	- If you or team members have an ORCID ID, make sure to include it in the metadata.
 
 5.2. Publicize your dataset:
-========================
+=============================
 
 - Consider using social media to share the DOI of your dataset, and tag CyVerse.
 - If you have an interesting story about your data, contact us at doi@cyverse.org, and we may be able to share it through CyVerse outreach.
@@ -64,26 +64,12 @@ Post your question to the user forum:
    replace the image name/location and URL if hyperlinked
 
 
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
-
-
 .. Comment: Place URLS Below This Line
 
    # Use this example to ensure that links open in new tabs, avoiding
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
 
-.. |Github Repo Link|  raw:: html
-
-   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
 
 .. |Permanent Identifier FAQs|  raw:: html
 

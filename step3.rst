@@ -62,10 +62,7 @@ Next Steps:
    # forcing users to leave the document, and making it easy to update links
    # In a single place in this document
 
-.. |Github Repo Link|  raw:: html
 
-   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
-   
 .. |Using Metadata in the DE|  raw:: html
 
    <a href="https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE" target="blank">Using Metadata in the DE</a>

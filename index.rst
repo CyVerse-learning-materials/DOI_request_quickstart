@@ -5,8 +5,10 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
+|Data_Commons_logo|_
+
 DOI Request Quickstart
-===================
+========================
 
 Goal
 ----
@@ -124,16 +126,7 @@ Post your question to the user forum:
    use :height: to give a desired height for your image
    replace the image name/location and URL if hyperlinked
 
-
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
  .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
-    :width: 25
-    :height: 25
-
 
 
 .. Comment: Place URLS Below This Line

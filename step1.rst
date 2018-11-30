@@ -6,7 +6,7 @@
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 1. Before you start
-----------------
+---------------------
 
 Background
 ========================
@@ -32,7 +32,7 @@ Next Steps:
 
 
 Additional information, help
-========================
+=============================
 
 Full documentation:
   |Requesting a permanent identifier|
@@ -74,6 +74,7 @@ Post your question to the user forum:
    # In a single place in this document
 
 .. |DOI|  raw:: html
+
    <a href="https://www.doi.org/" target="blank">DOI</a>
 
 .. |Github Repo Link|  raw:: html
