@@ -76,10 +76,6 @@ Post your question to the user forum:
 .. |DOI|  raw:: html
 
    <a href="https://www.doi.org/" target="blank">DOI</a>
-
-.. |Github Repo Link|  raw:: html
-
-   <a href="https://github.com/CyVerse-learning-materials/DOI_request_quickstart" target="blank">Github Repo Link</a>
    
 .. |Is Data Commons Curated Data right for my data?|  raw:: html
 
