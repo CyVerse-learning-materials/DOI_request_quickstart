@@ -95,9 +95,9 @@ If your dataset contains folders with many files (e.g., large collections of ima
 Next Steps:
 ========================
 
- 3. `Add metadata <step3.rst>`_
- 4. `Submit request <step4.rst>`_
- 5. `After publication <step5.rst>`_
+ 3. `Add metadata <step3.html>`_
+ 4. `Submit request <step4.html>`_
+ 5. `After publication <step5.html>`_
 
 
 Additional information, help
