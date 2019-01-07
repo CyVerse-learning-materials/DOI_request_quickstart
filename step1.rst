@@ -25,10 +25,10 @@ Before you begin, review these related pages:
 Next Steps:
 ========================
 
- 2. `Organize data <step2.rst>`_
- 3. `Add metadata <step3.rst>`_
- 4. `Submit request <step4.rst>`_
- 5. `After publication <step5.rst>`_
+ 2. `Organize data <step2.html>`_
+ 3. `Add metadata <step3.html>`_
+ 4. `Submit request <step4.html>`_
+ 5. `After publication <step5.html>`_
 
 
 Additional information, help
