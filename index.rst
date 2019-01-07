@@ -88,11 +88,12 @@ Input and example data
 Get started
 --------------
 
- 1. `Background - before you start <step1.rst>`_
- 2. `Organize data <step2.rst>`_
- 3. `Add metadata <step3.rst>`_
- 4. `Submit request <step4.rst>`_
- 5. `After publication <step5.rst>`_
+ 1. `Background - before you start`__
+ .. __<step1.rst>
+ 2. `Organize data <step2.rst>`__
+ 3. `Add metadata <step3.rst>`__
+ 4. `Submit request <step4.rst>`__
+ 5. `After publication <step5.rst>`__
 
 ----
 
