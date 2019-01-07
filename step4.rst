@@ -41,7 +41,7 @@
 Next Steps:
 ========================
 
- 5. `After publication <step5.rst>`_
+ 5. `After publication <step5.html>`_
 
 ------
 
