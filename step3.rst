@@ -31,8 +31,8 @@
 Next Steps:
 ========================
 
- 4. `Submit request <step4.rst>`_
- 5. `After publication <step5.rst>`_
+ 4. `Submit request <step4.html>`_
+ 5. `After publication <step5.html>`_
 
 
 |Home_Icon|_
