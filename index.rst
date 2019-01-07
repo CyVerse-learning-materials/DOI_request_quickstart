@@ -88,7 +88,7 @@ Input and example data
 Get started
 --------------
 
- 1. `Background - before you start<step1.html>`_
+ 1. `Background - before you start <step1.html>`_
  2. `Organize data <step2.html>`_
  3. `Add metadata <step3.html>`_
  4. `Submit request <step4.html>`_
