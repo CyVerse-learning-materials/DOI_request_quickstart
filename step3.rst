@@ -12,7 +12,7 @@
 	a. In the Data window, click the checkbox next to the folder.
 	b. Select Metadata > Edit / View Metadata
 	c. Alternatively, you can choose Edit / View Metadats from the three dot menu next to the file.
-	d. Click on + Select Template and and choose the DOI Request / Datacite metadata template.
+	d. Click on + Select Template and and choose the DOI Request - DataCite4.1 metadata template.
 	e. Complete the required fields (marked with an asterisk) and as many of the optional fields as possible.
 	f. Save the template. 
 2. For more information, including how to apply metadata in bulk, see |Using Metadata in the DE|.
