@@ -22,6 +22,9 @@
 .. tip::
 	Be sure to include at least 3 subject key words or phrases, so that people can discover your data!
 
+.. tip::
+	Get recognition for your work by including `ORCIDs <https://orcid.org/>`_ for yourself and all creators and contributors.
+
 .. Comment:
 
    # Provide a link to the metadata template quickstart when it is ready
