@@ -33,7 +33,7 @@ This quickstart provides the basic steps for organizing your data and requesting
 
   Additional/right4me.rst
   Additional/naming.rst
-  Addtional/doi_faq.rst
+  Additional/doi_faq.rst
 ..
     #### Comment: If you are using the TOC remove the 'summary', 'Additional information,
     help' and 'Fix or improve this tutorial' from all pages except the last page of the
