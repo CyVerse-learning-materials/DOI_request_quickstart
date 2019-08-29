@@ -30,6 +30,7 @@ Metadata, the description about your data, is key to getting your dataset notice
 
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. Comment: I need to update these links ####
 
 Full documentation:
   |Requesting a permanent identifier|
@@ -41,16 +42,6 @@ Full documentation:
 Search for an answer:
 |CyVerse Learning Center| or
 |CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
-
-----
-
-**Fix or improve this documentation**
-
-- On Github: |Github Repo Link|
-- Send feedback: `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 ----
 

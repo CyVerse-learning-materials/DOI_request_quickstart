@@ -13,19 +13,27 @@ DOI Request Quickstart
 Goal
 ----
 
-This quickstart provides the basic steps for organizing your data and requesting a DOI. Full documentation is available at https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons
+This quickstart provides the basic steps for organizing your data and requesting a DOI.
 
 ----
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 1
 
 	Quickstart home <self>
-	1. Before you start <step1.rst>
-	2. Organize data <step2.rst>
-	3. Add metadata <step3.rst>
-	4. Submit request <step4.rst>
-	5. After publication <step5.rst>
+	1. Before you start <before.rst>
+	2. Organize data <organize.rst>
+	3. Add metadata <metadata.rst>
+	4. Submit request <submit.rst>
+	5. After publication <after.rst>
+
+.. toctree::
+  :maxdepth: 2  
+  :caption: Additional information
+
+  Additional/right4me.rst
+  Additional/naming.rst
+  Addtional/doi_faq.rst
 ..
     #### Comment: If you are using the TOC remove the 'summary', 'Additional information,
     help' and 'Fix or improve this tutorial' from all pages except the last page of the
@@ -88,11 +96,11 @@ Input and example data
 Get started
 --------------
 
- 1. `Background - before you start <step1.html>`_
- 2. `Organize data <step2.html>`_
- 3. `Add metadata <step3.html>`_
- 4. `Submit request <step4.html>`_
- 5. `After publication <step5.html>`_
+ 1. `Background - before you start <before.html>`_
+ 2. `Organize data <organize.html>`_
+ 3. `Add metadata <metadata.html>`_
+ 4. `Submit request <submit.html>`_
+ 5. `After publication <after.html>`_
 
 ----
 
@@ -105,9 +113,6 @@ Additional information, help
 Search for an answer:
 |CyVerse Learning Center| or
 |CyVerse Wiki|
-
-Post your question to the user forum:
-|Ask CyVerse|
 
 ----
 

@@ -95,9 +95,9 @@ If your dataset contains folders with many files (e.g., large collections of ima
 Next Steps:
 ========================
 
- 3. `Add metadata <step3.html>`_
- 4. `Submit request <step4.html>`_
- 5. `After publication <step5.html>`_
+ 3. `Add metadata <metadata.html>`_
+ 4. `Submit request <submit.html>`_
+ 5. `After publication <after.html>`_
 
 
 Additional information, help
@@ -111,8 +111,6 @@ Search for an answer:
 |CyVerse Learning Center| or
 |CyVerse Wiki|
 
-Post your question to the user forum:
-|Ask CyVerse|
 
 ----
 
