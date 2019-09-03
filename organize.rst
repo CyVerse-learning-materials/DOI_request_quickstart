@@ -12,10 +12,15 @@
 There are several steps to properly organizing your dataset. These include determining what data to include, how many identifiers to request, how to organize the data into folders, and creating the ReadMe file and data inventory.
 
 2.1. Determine what to include
+
 2.2. Determine how many permanent identifiers to request
+
 2.3. Organize your data into folder(s)
+
 2.4. Name your top level folder according to the guidelines
+
 2.5. Create a ReadMe file
+
 2.6. Create an inventory
 
 ----------
