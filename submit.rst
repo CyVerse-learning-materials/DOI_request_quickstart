@@ -14,7 +14,7 @@
 
 - In the Data window, click the checkbox next to the folder.
 - Select Metadata > Request DOI.
-- After verifying you have read the instructions (i.e. this page), click "I need a DOI". You will receive a verification email that your request has been received, and a notification will be listed in the Notifications list in the DE.	
+- After verifying you have read the instructions (i.e. this guide), click "I need a DOI". You will receive a verification email that your request has been received, and a notification will be listed in the Notifications list in the DE.	
 
 .. note::
 	At this point, your folder will move to a new location under Community Data/commons_repo/staging.
@@ -25,7 +25,7 @@
 ========================
 
 - After submitting your request, a CyVerse Curated Data curator begins validating your dataset, metadata, and overall configuration of your dataset. 
-- Validations are based solely on the required DOI metadata and folder-naming conventions, as well as its potential utility to the CyVerse and larger scientific community—not the quality of your data.
+- Validations are based solely on the required DOI metadata and folder-naming conventions, as well as its potential utility to the CyVerse and larger scientific community, not the quality of your data. This is not a peer review process.
 
 **Possible validation actions:**
 	- If the curator determines that minor changes are needed, they may make those changes themselves.
