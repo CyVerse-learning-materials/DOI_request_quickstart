@@ -82,8 +82,8 @@ Although the following will pass validation, they are not recommended because th
 - Esteva_yam_Mar2016 (Subject too vague)
 - DeBarry_yam_genetic_and_environmental_variation_with_phenotype_data_version3_Dioscorea_2016 (Too detailed)
 
+---------
 
-|Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 .. Comment: Place Images Below This Line
