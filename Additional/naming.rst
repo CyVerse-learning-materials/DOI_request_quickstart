@@ -26,17 +26,24 @@ Format
 **$Creator_$subject_$date**
 
 **$Creator:** 
+
 - The Creator entry should be the same as entered in the Creator field of the DOI request - DataCite Metadata request form.
 - The Creator is the lead author, the senior author, or the organization with the primary responsibility for the dataset.
 Start the field (the creator's name) with a capital letter.
+
 **Co-creators:** 
+
 - If two co-creators, okay to use both names, separated by an underscore or using camel case.
 - If three or more co-creators, select only one name or use a consortium name. Other contributors should be acknowledged in the metadata (as creators or contributors), which will display on the dataset landing page.
+
 **$subject:** 
+
 - Very briefly describes what the dataset is about.
 - If the subject is more than one word, use either camel case (example: camelCase) or underscores (example: underscore_between_words) to separate the words.
 - If another folder has the exact same name, you may modify the subject slightly to maintain uniqueness.
+
 **$date:**
+
 - Either just the year, or the month and year, in which the dataset was created.
 - Month and year should be used only if there is likely to be more than one dataset with the same creator and subject within the same year.
 - Month must be a three-letter abbreviation: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Nov, Dec
