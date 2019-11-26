@@ -55,8 +55,6 @@ If you answered No
 ----
 
 
-
-|Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
