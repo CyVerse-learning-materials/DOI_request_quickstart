@@ -28,7 +28,7 @@ This quickstart provides the basic steps for organizing your data and requesting
 	5. After publication <after.rst>
 
 .. toctree::
-  :maxdepth: 2  
+  :maxdepth: 1  
   :caption: Additional information
 
   Additional/right4me.rst
@@ -111,8 +111,7 @@ Additional information, help
     Short description and links to any reading materials
 
 Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
+|CyVerse Learning Center|
 
 ----
 
