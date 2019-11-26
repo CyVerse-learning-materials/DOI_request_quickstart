@@ -31,21 +31,16 @@ Metadata, the description about your data, is key to getting your dataset notice
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 .. Comment: I need to update these links ####
-
-Full documentation:
-  |Requesting a permanent identifier|
   
 |Permanent Identifier FAQs|
 
 |Is Data Commons Curated Data right for my data?|
 
 Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
+|CyVerse Learning Center|
 
 ----
 
-|Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
 
@@ -64,13 +59,10 @@ Search for an answer:
 
 .. |Permanent Identifier FAQs|  raw:: html
 
-   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Permanent Identifier FAQs</a>
+   <a href="https://learning.cyverse.org/projects/cyverse-doi-request-quickstart/en/latest/Additional/doi_faq.html" target="blank">Permanent Identifier FAQs</a>
    
-.. |Requesting a permanent identifier|  raw:: html
-
-   <a href="https://wiki.cyverse.org/wiki/display/DC/Requesting+a+Permanent+Identifier+in+the+Data+Commons" target="blank">Requesting a permanent identifier</a>
    
 .. |Is Data Commons Curated Data right for my data?|  raw:: html
 
-   <a href="https://github.com/ramonawalls/DOI_request_quickstart" target="blank">Is Data Commons Curated Data right for my data?</a>
+   <a href="https://learning.cyverse.org/projects/cyverse-doi-request-quickstart/en/latest/Additional/right4me.html" target="blank">Is Data Commons Curated Data right for my data?</a>
 
