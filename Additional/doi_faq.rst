@@ -11,7 +11,7 @@ DOI Frequently Asked Questions
 Why should I publish my data in CyVerse Curated Data?
 ===================================================
 
-CyVerse Curated Data is the ideal platform for ease of data reuse. Because it is assigned a permanent identifier (DOI or ARK), it is stable and unchangeable, making it ideal for data citation. Because the data is stored in large-scale storage resources that are monitored 24/7, it is secure. Because it allows transfer, upload, and download across different computers and platforms, it can store very large datasets. And because its data is accessible to CyVerse's suite of large-scale computational analysis resources, users can seamlessly analyze, manage, and publish new results. For more information, see Is CyVerse Curated Data Right for My Data?
+CyVerse Curated Data is the ideal platform for ease of data reuse. Because it is assigned a permanent identifier (DOI or ARK), it is stable and unchangeable, making it ideal for data citation. Because the data is stored in large-scale storage resources that are monitored 24/7, it is secure. Because it allows transfer, upload, and download across different computers and platforms, it can store very large datasets. And because its data is accessible to CyVerse's suite of large-scale computational analysis resources, users can seamlessly analyze, manage, and publish new results. For more information, see `Is CyVerse Curated Data Right for My Data? <https://cyverse-doi-request-quickstart.readthedocs-hosted.com/en/latest/Additional/right4me.html>`_.
 
 ----
 
@@ -19,24 +19,24 @@ What are the conditions for data to be published through CyVerse Curated Data?
 ==================================================================================
 Several conditions must exist in your data before it can be published in CyVerse Curated Data:
 
-- You must be a registered CyVerse account holder. To register for an account, see Create Account on the CyVerse website.
-- A dataset may be up to 100GB in size. If you are interested in depositing a larger dataset, please request an increased data allocation before requesting a permanent identifier.
+- You must be a registered CyVerse account holder. To register for an account, see the `Create Accoun Quickstart <https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/en/latest/>`_.
+- A dataset may be up to 100GB in size. If you are interested in depositing a larger dataset, please request an increased data allocation before requesting a permanent identifier using `this form <https://user.cyverse.org/forms/2/overview>`_.
 - Data must be both curated and static. Once the data is published, it cannot be amended (although newer versions can be published).
 - Data must be organized to identify the different components (raw, preprocessed, analysis, etc.).
-- Compressed files must be in LASzip (http://www.laszip.org/) or open-source Gzip (http://en.wikipedia.org/wiki/Gzip) family of compression formats including zip, tar, tar.gz, or tgz.
-- At minimum, the dataset must include a complete description according to the DataCite standard. Domain-specific schemas, however, and the addition of ReadMe files, publications, or help notes that explain the data as well as how they were obtained and can be used, are welcome. In organizing and documenting the data, users should ask themselves, “What would someone need to reuse this data?”
+- Compressed files must be in `LASzip <http://www.laszip.org/>`_ or open-source `Gzip <http://en.wikipedia.org/wiki/Gzip>`_ family of compression formats including zip, tar, tar.gz, or tgz.
+- At minimum, the dataset must include a complete description according to the `DataCite standard <https://schema.datacite.org/>`_. Domain-specific schemas, however, and the addition of ReadMe files, publications, or help notes that explain the data as well as how they were obtained and can be used, are encouraged. In organizing and documenting the data, users should ask themselves, “What would someone need to reuse this data?”
 
 ----
 
 Can I publish to the Data Commons if my data is not static and curated by CyVerse?
 ============================================================================
-Yes, you can make data available to the public via Community Released Data. See Publishing Data through the Data Commons.
+Yes, you can make data available to the public via Community Released Data. See `Publishing Data through the Data Commons <https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons>`_.
 
 ----
 
 What is a DOI ?
 ===========
-A DOI is a Digital Object Identifier. It serves as a permanent, redirectable identifier and URL for your dataset, so that even if the location of your dataset changes, it can still be found with the same ID. DOIs are issued by CyVerse through the DataCite service.
+A DOI is a `Digital Object Identifier <https://www.doi.org/>_. It serves as a permanent, redirectable identifier and URL for your dataset, so that even if the location of your dataset changes, it can still be found with the same ID. DOIs are issued by CyVerse through the `DataCite <https://datacite.org/>`_ service.
 
 ----
 
@@ -50,13 +50,13 @@ Also contact us if you have questions about how to organize your data or what sc
 
 How much does a CyVerse permanent identifier cost?
 ============================================
-At this point in time, CyVerse does not charge for DOIs or ARKs. However, the dataset must meet the requirements on the page, Is CyVerse Curated Data Right for My Data? In the future, there may be a charge for issuing permanent identifiers in the CyVerse Curated Data site.
+At this point in time, CyVerse does not charge for DOIs. However, the dataset must meet the requirements on the page `Is CyVerse Curated Data Right for My Data? <https://cyverse-doi-request-quickstart.readthedocs-hosted.com/en/latest/Additional/right4me.html>`_. In the future, there may be a charge for issuing permanent identifiers in the CyVerse Data Commons.
 
 ----
 
 How long will it take to obtain a permanent identifier and publish my data?
 =========================================================================
-Providing that your dataset is in good order and ready to be published, the process may take up to one week, as it may involve a dialogue with the CyVerse Curated Data curators. If your data is well organized and the metadata is complete and accurate, the process will be much faster (1-2 days). It is best to submit your request at least one week before you need the identifier (e.g., for a manuscript submission).
+Providing that your dataset is in good order and ready to be published, the process may take up to one week, as it may involve a dialogue with the CyVerse data curators. If your data is well organized and the metadata is complete and accurate, the process will be much faster (usually 1-2 days). It is best to submit your request at least one week before you need the identifier (e.g., for a manuscript submission) or longer for very large of complex datasets.
 
 ----
 
@@ -80,7 +80,7 @@ Certain file types are regularly transferred, stored, and used in applications i
 
 Can I publish data in CyVerse if I am not a CyVerse user?
 ============================================
-You need to have a CyVerse account to publish your data in the Data Commons repositories (Community Contributed or Curated Data). You do not have to be a user of the entire platform, but at minimum you must be able to upload data, add metadata, and use the Discovery Environment. If you have not used the DE's metadata features before, start with Using Metadata in the DE, and read the section on metadata templates.
+You need to have a CyVerse account to publish your data in the Data Commons repositories (Community Contributed or Curated Data). You do not have to be a user of the entire platform, but at minimum you must be able to upload data, add metadata, and use the Discovery Environment to request a DOI. If you have not used the DE's metadata features before, start with `Using Metadata in the DE <https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE>`_ and read the section on metadata templates.
 
 ----
 
@@ -97,15 +97,19 @@ If and when the Data Commons cannot host your data in CyVerse Curated Data, it w
 ----
 
 What if in the future I want to move my data to another repository?
-If you want to move your data to another repository, please send a ticket with the new URL location and we will change the DOI target. You may leave a copy of the dataset in the CyVerse Curated Data site for ease of reuse within the computational environment. We will update the metadata to reflect the relationship between the two identical datasets.
+============================================
+If you want to move your data to another repository, please send a ticket with the new DOI and URL location and we will change the DOI target. You may leave a copy of the dataset in the CyVerse Curated Data site for ease of reuse within the computational environment. We will update the metadata to reflect the relationship between the two identical datasets.
 
 ----
 
 How can I make it easier for people to give me (and my co-creators) credit for using my dataset?
 ========================================================================================
-One way is to provide a short ReadMe file with the data and which provides specific instructions on how to cite the dataset. This is information that you obtain automatically once you are assigned an identifier.
+Encourage others to cite your data using the DOI. Each dataset landing page includes a citation that can be copied or downloaded in standard formats (BibTEX or EndNote). 
 
-Another way is to link your data to your ORCID (see http://orcid.org/). ORCID provides a persistent digital identifier that distinguishes you from every other researcher and supports automated linkages between you and your professional activities, ensuring that your work is recognized. The DataCite metadata template includes places to list ORCIDs of the creator. ORCIDs of contributors can be added as user metadata.
+Connecting your data to your ORCID (see http://orcid.org/) also ensures that you get credit for your work. ORCID provides a persistent digital identifier that distinguishes you from every other researcher and supports automated linkages between you and your professional activities, ensuring that your work is recognized. The DataCite metadata template includes places to list ORCIDs of the creator. The DataCite metadata template has a place for ORCIDs of creators and contributors.
+
+If your data includ specific instructions for citing or reuse, to provide those in the ReadMe file and (if brief) in the "reuse_or_citation" metadata field.
+
 
 ----
 
@@ -168,15 +172,15 @@ Email the `CyVerse DOI team <mailto::doi@cyverse.org>`_ or ask a question on our
    replace the image name/location and URL if hyperlinked
 
 
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
+.. |Home_Icon| image:: ../img/homeicon.png
     :width: 25
     :height: 25
+.. _Home_Icon: http://learning.cyverse.org/
 
+.. |CyVerse logo| image:: ../img/cyverse_rgb.png
+    :width: 500
+    :height: 100
+.. _CyVerse logo: http://learning.cyverse.org/
 
 
 .. Comment: Place URLS Below This Line
