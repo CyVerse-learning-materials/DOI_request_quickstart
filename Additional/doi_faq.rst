@@ -106,28 +106,31 @@ How can I make it easier for people to give me (and my co-creators) credit for u
 ========================================================================================
 Encourage others to cite your data using the DOI. Each dataset landing page includes a citation that can be copied or downloaded in standard formats (BibTEX or EndNote). 
 
-Connecting your data to your ORCID (see http://orcid.org/) also ensures that you get credit for your work. ORCID provides a persistent digital identifier that distinguishes you from every other researcher and supports automated linkages between you and your professional activities, ensuring that your work is recognized. The DataCite metadata template includes places to list ORCIDs of the creator. The DataCite metadata template has a place for ORCIDs of creators and contributors.
+Connecting your data to your ORCID (see http://orcid.org/) also ensures that you get credit for your work. ORCID provides a persistent digital identifier that distinguishes you from every other researcher and supports automated linkages between you and your professional activities, ensuring that your work is recognized. The DataCite metadata template includes places to list ORCIDs of the creator. The DOI creation metadata template has a place for ORCIDs of creators and contributors.
 
-If your data includ specific instructions for citing or reuse, to provide those in the ReadMe file and (if brief) in the "reuse_or_citation" metadata field.
+If you have published a paper that goes with your data, be sure to cite the DOI in the paper. Provide a link to the paper's DOI in the metadata under "relatedIdentifier".
+
+If your data includ specific instructions for citing or reuse, to provide those in the ReadMe file and (if brief) in the "reuse_or_citation_conditions" metadata field.
 
 
 ----
 
 Whom do I choose for the creator versus contributor?
 ============================================
-A dataset can have only one creator but may have multiple (or no) contributors.
+Creators are the main researchers involved in producing the data, or the authors of the publication, in priority order. To supply multiple creators, repeat this property. May be a corporate/institutional or personal name.  The creator does not need to be the person who is submitting the identifier request.
 
-The creator is the single person or group with primary responsibility for the dataset. The creator is either the lead author of the dataset, the senior author of the dataset, or a consortium of authors, and should be the same as the name used for the folder containing the data. The creator does not need to be the person who is submitting the identifier request.
+The institution or person responsible for collecting, managing, distributing, or otherwise contributing to the development of the resource. To supply multiple contributors, repeat this property. For software, if there is an alternate entity that "holds, archives, publishes, prints, distributes, releases, issues, or produces" the code, use the contributorType "hostingInstitution" for the code repository.
 
-You also can add the role of contributors, which can include anyone who made a significant contribution to the creation of the dataset.
+You must include the role of all contributors. Choose from the dropdown list in the DOI request template.
 
 ----
 
 Which license can I use to publish my data?
 ============================================
-You can choose one of two licenses, depending on the materials you will be publishing:
+You can choose one of two open source licenses, depending on the materials you will be publishing:
 
 ODC PDDL for non-copyrightable materials (i.e., data only).
+
 CC0 for copyrightable material (Workflows, White Papers, Project Documents).
 If you have special circumstances that require a different license (e.g., your dataset is aggregated from previously published data that already has another license), please contact us at doi@cyverse.org.
 
@@ -141,25 +144,25 @@ Once the data is public it will not change, and thus metadata should be stable a
 
 What metadata standards does CyVerse support for data publication?
 ==================================================
-All data will have a DataCite metadata entry. However, take into consideration that the DataCite metadata is a citation metadata that does not represent the complexity of the research that went behind creating your data, and we encourage you to include additional metadata. We suggest that you include the metadata records and other help documents in your publication package within a folder labeled as “metadata” so it is easily identifiable for other users.
+All data will follow the DataCite metadata schema (currently using version 4.1). However,  DataCite metadata is citation metadata that does not represent the complexity of the research that went behind creating your data. Therefore, we encourage you to include additional metadata. We suggest that you include the metadata records and other help documents in your publication package within a folder labeled as “metadata” so it is easily identifiable for other users. Consider taking advantage of the DE's bulk metadata application feature for adding file level metadata, especially for large datasets.
 
 ----
 
 How can I organize and package my dataset for publication in the CyVerse Curated Data site?
 ========================================================================================
-See Guidelines for Organizing Your CyVerse Curated Data for more details on how to prepare your data for publication.
+See the guidelines for `organizing data <https://cyverse-doi-request-quickstart.readthedocs-hosted.com/en/latest/organize.html>`_ for more details on how to prepare your data for publication.
 
 ----
 
 What if I want to change or add metadata to my public data?
 ============================================
-If you need to make changes to the metadata of a dataset with a DOI or ARK, contact us at doi@cyverse.org.
+If you need to make changes to the metadata of a dataset with a DOI, contact us at doi@cyverse.org. If your dataset is connected to a paper that is published after the DOI is created, please contact us with the paper's DOI so we can link it in the metadata.
 
 ----
 
 Where can I go for help on permanent identifiers?
 ============================================
-Email the `CyVerse DOI team <mailto::doi@cyverse.org>`_ or ask a question on our forum.
+Email the `CyVerse DOI team <mailto::doi@cyverse.org>`_.
 
 ----
 
