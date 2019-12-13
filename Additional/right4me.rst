@@ -64,15 +64,15 @@ If you answered No
    replace the image name/location and URL if hyperlinked
 
 
- .. |Clickable hyperlinked image| image:: ./img/IMAGENAME.png
-    :width: 500
-    :height: 100
- .. _CyVerse logo: http://learning.cyverse.org/
-
- .. |Static image| image:: ./img/IMAGENAME.png
+.. |Home_Icon| image:: ../img/homeicon.png
     :width: 25
     :height: 25
+.. _Home_Icon: http://learning.cyverse.org/
 
+.. |CyVerse logo| image:: ../img/cyverse_rgb.png
+    :width: 500
+    :height: 100
+.. _CyVerse logo: http://learning.cyverse.org/
 
 
 .. Comment: Place URLS Below This Line
