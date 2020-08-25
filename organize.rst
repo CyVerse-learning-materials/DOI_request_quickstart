@@ -90,7 +90,7 @@ Describe the file naming conventions, if that is helpful.
 ==========================
 
 
-```
+~~~
 
 Lyons_DOI-Example-Aug2020:  Top level directory name
 README.txt:          Plain text file that describes the origin of the data, experiments, data processing, etc.
@@ -101,7 +101,7 @@ b.data2/:     	     Directory containing more data
 c.data3/:            Directory containing even more data
 d.analysis_graphs/:  Results, graphs, analyses, and other good stuff
 
-```
+~~~
 
 ----------Next Steps:
 ========================
