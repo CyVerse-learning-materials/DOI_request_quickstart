@@ -89,6 +89,7 @@ Describe the file naming conventions, if that is helpful.
 2.7. Example:
 ==========================
 
+
 ```
 
 Lyons_DOI-Example-Aug2020:  Top level directory name
@@ -99,6 +100,7 @@ a.data1/:            Directory containing data
 b.data2/:     	     Directory containing more data
 c.data3/:            Directory containing even more data
 d.analysis_graphs/:  Results, graphs, analyses, and other good stuff
+
 ```
 
 ----------Next Steps:
