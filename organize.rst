@@ -1,6 +1,6 @@
 .. include:: cyverse_rst_defined_substitutions.txt
 
-|CyVerse logo|_
+|CyVerse_logo|_
 
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
@@ -101,9 +101,7 @@ The UPenn library offers |this guide| to organizing data.
 
 DataONE best practices for |document storage systems|.
 
-Search for an answer:
-|CyVerse Learning Center| or
-|CyVerse Wiki|
+
 
 
 ----
