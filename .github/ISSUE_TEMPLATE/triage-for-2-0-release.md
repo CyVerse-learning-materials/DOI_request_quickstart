@@ -20,9 +20,10 @@ items.
 - [ ] `misc/static/question-answer.js` is version 2.0
 - [ ] `misc/static/jquery.tablesorter.min.js` is version 2.0
 - [ ] `misc/cyverse_spinx_conf.py` is version 2.0
-- [ ]  `conf.py` is version 2.0
-- [ ]  `cyverse_rst_defined_substitutions.txt` is version 2.0
-- [ ]  `README.md` is version 2.0
+- [ ] `conf.py` is version 2.0 and you have updated the name of the documentation (check the project =' line, your `index.rst` should have
+the appropriate name)
+- [ ] `cyverse_rst_defined_substitutions.txt` is version 2.0
+- [ ] `License.md` is version 2.0
 
 ### 2. Check on the following required formatting for all pages
 
@@ -75,11 +76,17 @@ items.
     -  Best practice is to AVOID inline hyperlinks
     -  Where possible links should NOT be on the `.rst` page but on a single
         document that is included. (e.g. `custom_urls.txt` or `cyverse_rst_defined_substitutions.txt`)
+    - `custom_urls.txt` should be for URLS specific to that repo
+    - `cyverse_rst_defined_substitutions.txt` is a list of generic links to
+       other CyVerse and Learning Center pages
     - Links should have the form below and open in a new tab:
         ````
             .. |Link Title| raw:: html
 
            <a href="https://LINK.URL" target="blank">Link Title</a>
+
+        ````
+- [ ] Check the |Github Repo Link| on each .rst page and ensure it links to the correct GitHub repository for this documentation.       
 
 
 ### 3. Overall quality  
