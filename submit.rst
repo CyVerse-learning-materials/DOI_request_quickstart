@@ -12,8 +12,8 @@
 4.1. Submit DOI request
 ========================
 
-- In the Data window, click the checkbox next to the folder.
-- Select Metadata > Request DOI.
+- In the Data tab, click the checkbox next to the folder.
+- Select More actions > Request DOI.
 - After verifying you have read the instructions (i.e. this guide), click "I need a DOI". You will receive a verification email that your request has been received, and a notification will be listed in the Notifications list in the DE.	
 
 .. note::
