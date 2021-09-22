@@ -19,8 +19,8 @@
 3. You may add any additional metadata that is appropriate. We encourage the use of additional metadata to make your data better understood and more discoverable.
 4. We encourage the use of metadata on subfolders and individual files in your datasets.
 
-.. tip::
-	Be sure to include at least 3 subject key words or phrases, so that people can discover your data! **Each subject should be its own field** (click on the plus next to "Subject". **Do not use a comma-separated list.**)
+.. Warning::
+	Be sure to include at least 3 subject key words or phrases, so that people can discover your data! **Each subject should be its own field** (click on the plus next to "Subject". **DO NOT use a comma-separated list.**)
 
 .. tip::
 	Get recognition for your work by including `ORCIDs <https://orcid.org/>`_ for yourself and all creators and contributors.
