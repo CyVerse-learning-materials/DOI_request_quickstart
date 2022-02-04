@@ -33,10 +33,4 @@ Metadata, the description about your data, is key to getting your dataset notice
 
 ------------------------------------------------------------------------
 
-### Additional information, help
-
-Search for an answer:
-
-------------------------------------------------------------------------
-
 [Learning Center Home](http://learning.cyverse.org/)

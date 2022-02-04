@@ -11,14 +11,7 @@
     your request has been received, and a notification will be listed in
     the Notifications list in the DE.
 
-::: note
-::: title
-Note
-:::
-
-At this point, your folder will move to a new location under Community
-Data/commons_repo/staging.
-:::
+> **Note:** At this point, your folder will move to a new location under Community_Data/commons_repo/staging.
 
 ------------------------------------------------------------------------
 
