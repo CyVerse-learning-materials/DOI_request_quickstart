@@ -14,17 +14,17 @@ copyright: 'Copyright &copy; 2022 CyVerse'
 
 # Navigation Page
 nav:
-  - Section:
-    - Quickstart home: index.md
+  - Quickstart home: index.md
+  - Get Started:
     - 1. Before you start: before.md
     - 2. Organize your data: organize.md
     - 3. Add metadata: metadata.md
     - 4. Submit request: submit.md
     - 5. After publication: after.md
   - Additional Information:
-    - Is the CyVerse Curated Data Repository right for my data?: right4me.rst
-    - Data Commons Naming Coventions: naming.rst
-    - DOI Frequently Asked Questions: doi_faq.rst
+    - Is the CyVerse Curated Data Repository right for my data?: right4me.md
+    - Data Commons Naming Coventions: naming.md
+    - DOI Frequently Asked Questions: doi_faq.md
 
 # JavaScript for Intercom Widget
 extra_javascript:
