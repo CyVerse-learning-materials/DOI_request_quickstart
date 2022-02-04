@@ -14,7 +14,8 @@ copyright: 'Copyright &copy; 2022 CyVerse'
 
 # Navigation Page
 nav:
-  - Home: index.md 
+  - Quickstart home: index.md
+  - 1. Before you start: before.md
 
 # JavaScript for Intercom Widget
 extra_javascript:

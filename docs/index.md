@@ -15,9 +15,11 @@ data \<organize.rst\> 3. Add metadata \<metadata.rst\> 4. Submit request
 \<submit.rst\> 5. After publication \<after.rst\>
 :::
 
-::: {.toctree maxdepth="1" caption="Additional information"}
-Additional/right4me.rst Additional/naming.rst Additional/doi_faq.rst
-:::
+## Additional information
+- Is the CyVerse Curated Data Repository right for my data?
+- Data Commons Naming Conventions
+- DOI Frequently Asked Questions
+
 
 ------------------------------------------------------------------------
 
@@ -36,7 +38,7 @@ following services/software:*
 
 *We will use the following CyVerse platform(s):*
 
-  Platform | Interface | Link | Platform Documentation | Quick Start |
+|Platform | Interface | Link | Platform Documentation | Quick Start |
 | --- | --- | --- | --- | --- | [Data Store](https://cyverse.org/data-store) | [Data Store Manual](https://cyverse.atlassian.net/wiki/spaces/DS/overview) | [Data Store Guide](https://learning.cyverse.org/projects/data_store_guide/en/latest/) |
   Data Store | GUI/Command line |                                    
   Discovery Environment | Web/Point-and-click | [Discovery Environment](https://de.cyverse.org/) | [DE Manual](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview) | [Discovery Environment Guide](https://learning.cyverse.org/projects/discovery-environment-guide/en/latest/) |
@@ -73,12 +75,4 @@ Search for an answer:
 
 ------------------------------------------------------------------------
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
-
-> \# Use this example to ensure that links open in new tabs, avoiding \#
-> forcing users to leave the document, and making it easy to update
-> links \# In a single place in this document
-
-> \<a
-> href=\"<https://github.com/CyVerse-learning-materials/DOI_request_quickstart>\"
-> target=\"blank\"\>Github Repo Link\</a\>
+[Learning Center Home](http://learning.cyverse.org/)
