@@ -21,39 +21,21 @@
 4.  We encourage the use of metadata on subfolders and individual files
     in your datasets.
 
-<div class="panel panel-warning">
+---
 **Warning**
-{: .panel-heading}
-<div class="panel-body">
-
-WARNING DESCRIPTION
-
-</div>
-</div>
-
-My important paragraph.
-{: .alert .alert-info}
-::: {warning}
-::: title
-Warning
-:::
 
 Be sure to include at least 3 subject key words or phrases, so that
 people can discover your data! **Each subject should be its own field**
-(click on the plus next to \"Subject\". **DO NOT use a comma-separated
+(click on the plus next to "Subject". **DO NOT use a comma-separated
 list.**)
-:::
+---
 
-::: tip
-::: title
+---
 Tip
-:::
 
 Get recognition for your work by including [ORCIDs](https://orcid.org/)
 for yourself and all creators and contributors.
-:::
-
-> \# Provide a link to the metadata template quickstart when it is ready
+---
 
 ------------------------------------------------------------------------
 
