@@ -19,11 +19,17 @@
     understood and more discoverable.
 
 4.  We encourage the use of metadata on subfolders and individual files
-    in your datasets. :tent::joy:
-    <style>
-    .emoji-big-size img {font-size: 4rem;}
-    </style>
-    {: .emoji-big-size}
+    in your datasets.
+
+<div class="panel panel-warning">
+**Warning**
+{: .panel-heading}
+<div class="panel-body">
+
+WARNING DESCRIPTION
+
+</div>
+</div>
 
 My important paragraph.
 {: .alert .alert-info}
