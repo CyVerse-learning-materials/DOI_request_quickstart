@@ -29,7 +29,7 @@
 
 > **_Warning:_** Be sure to include at least 3 subject key words or phrases, so that people can discover your data! **Each subject should be its own field** (click on the plus next to "Subject". **DO NOT use a comma-separated list.**)
 
-> **Tip Get** recognition for your work by including [ORCIDs](https://orcid.org/) for yourself and all creators and contributors.
+> **Tip:** Get recognition for your work by including [ORCIDs](https://orcid.org/) for yourself and all creators and contributors.
 
 ------------------------------------------------------------------------
 

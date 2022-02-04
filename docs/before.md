@@ -21,8 +21,6 @@ results.
 > 4.  [Submit request](submit.html)
 > 5.  [After publication](after.html)
 
-## Additional information, help
-
 ------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)

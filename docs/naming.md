@@ -1,36 +1,30 @@
-
-
-![CyVerse logo](../img/cyverse_rgb.png){width="500px" height="100px"}\_
-
-![Home_Icon](../img/homeicon.png){width="25px" height="25px"}\_
 [Learning Center Home](http://learning.cyverse.org/)
 
-Data Commons Naming Conventions ======================== CyVerse Curated
-Data datasets are searchable and discoverable based on their metadata.
+# Data Commons Naming Conventions 
+CyVerse Curated Data datasets are searchable and discoverable based on their metadata.
 While the dataset itself can have any name chosen by the creator (within
 reason), the folder that contains the dataset must follow the naming
 practices described on this page.
 
-General guidelines \-\-\-\-\-\-\-\-\-\-\-\-\-- Folder names must be
-unique. In the case of a conflict with an existing dataset, your subject
-can be modified slightly. - No invalid characters: Be sure there are
-**no spaces or special characters in the folder name**; for more
-information, see [Using Special Characters in the
-DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE.) -
-Use underscores between each segment.
+## General guidelines
+- Folder names must be unique. In the case of a conflict with an existing dataset, your subject
+can be modified slightly. 
+- No invalid characters: Be sure there are **no spaces or special characters in the folder name**; for more
+information, see [Using Special Characters in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE.) 
+- Use underscores between each segment.
 
 ------------------------------------------------------------------------
 
 # Format
 
-**\$Creator\_\$subject\_\$date**
+**$Creator_$subject_$date**
 
 **\$Creator:**
 
 -   The Creator entry should be the same as entered in the Creator field
     of the DOI request - DataCite Metadata request form.
 
-\- The Creator is the lead author, the senior author, or the
+- The Creator is the lead author, the senior author, or the
 organization with the primary responsibility for the dataset. Start the
 field (the creator\'s name) with a capital letter.
 
@@ -43,7 +37,7 @@ field (the creator\'s name) with a capital letter.
     metadata (as creators or contributors), which will display on the
     dataset landing page.
 
-**\$subject:**
+**$subject:**
 
 -   Very briefly describes what the dataset is about.
 -   If the subject is more than one word, use either camel case
@@ -52,7 +46,7 @@ field (the creator\'s name) with a capital letter.
 -   If another folder has the exact same name, you may modify the
     subject slightly to maintain uniqueness.
 
-**\$date:**
+**$date:**
 
 -   Either just the year, or the month and year, in which the dataset
     was created.
@@ -102,23 +96,3 @@ because the subject is too vague or too detailed:
 ------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)
-
-> \# Use this example to ensure that links open in new tabs, avoiding \#
-> forcing users to leave the document, and making it easy to update
-> links \# In a single place in this document
-
-> \<a href=\"<https://www.datadryad.org/>\"
-> target=\"blank\"\>Dryad\</a\>
-
-> \<a href=\"<https://figshare.com/>\" target=\"blank\"\>Figshares\</a\>
-
-> \<a href=\"<https://user.cyverse.org>\"
-> target=\"blank\"\>user.cyverse.org\</a\>
-
-> \<a
-> href=\"<https://cyverse-data-store-guide.readthedocs-hosted.com/en/latest/step2.html>\"
-> target=\"blank\"\>iCommands\</a\>
-
-> \<a
-> href=\"<https://pods.cyverse.org/wiki/display/DEmanual/Using+Metadata+Templates>\"
-> target=\"blank\"\>metadata template\</a\>

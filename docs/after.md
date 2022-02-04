@@ -7,8 +7,8 @@
 Metadata, the description about your data, is key to getting your dataset noticed in the world wide web. Search engines and bibliographic aggregators index the metadata that you create to obtain a DOI. Thus, it is important that you do the following:
 
 -   Make sure the metadata are complete.
--   Include precise keywords in the "Subject" attribute. - Include
-    descriptive terms about the science and themes involved in your
+-   Include precise keywords in the "Subject" attribute. 
+-   Include descriptive terms about the science and themes involved in your
     research. These can go in the "Subject" attribute, but you can
     also create additional metadata attributes specific to your
     dataset.

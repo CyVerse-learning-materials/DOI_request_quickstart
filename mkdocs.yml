@@ -16,11 +16,10 @@ copyright: 'Copyright &copy; 2022 CyVerse'
 nav:
   - Quickstart home: index.md
   - Get Started:
-    - 1. Before you start: before.md
-    - 2. Organize your data: organize.md
-    - 3. Add metadata: metadata.md
-    - 4. Submit request: submit.md
-    - 5. After publication: after.md
+    - 1. Organize your data: organize.md
+    - 2. Add metadata: metadata.md
+    - 3. Submit request: submit.md
+    - 4. After publication: after.md
   - Additional Information:
     - Is the CyVerse Curated Data Repository right for my data?: right4me.md
     - Data Commons Naming Coventions: naming.md

@@ -52,12 +52,10 @@ consider the following:
 1.  Organize your data so that there is one folder for each DOI, named
     according to step 2.4.
 
-2.  
+2.  Within a folder, include all files in your data package plus the ReadMe file and the inventory.
 
-    Within a folder, include all files in your data package plus the ReadMe file and the inventory.
-
-    :   -   You may have subfolders within a data package.
-        -   You may include compressed files in a package, as described
+    -   You may have subfolders within a data package.
+    -   You may include compressed files in a package, as described
             on the Permanent Identifier FAQs, but do not compress the
             entire folder/package.
 
@@ -66,29 +64,23 @@ consider the following:
 ## 2.4. Name your top level folder according to the guidelines:
 
 The folder containing your dataset should be named using the
-\$[Creator]()\$[subject]()\$date format.
+$Creator_$subject_$date format.
 
-For more details on folder naming, see the .
+For more details on folder naming, see the [CyVerse Curated Data Folder-Naming Guidelines](naming.html).
 
 ------------------------------------------------------------------------
 
 ## 2.5. Create a ReadMe file:
 
-Create a text file labeled \"readMe\" with the following information:
+Create a text file labeled "readMe" with the following information:
 
 -   How you obtained, organized, and labeled your dataset.
-
 -   How to reuse the data, such as which apps can analyze the data.
-
 -   The inventory (see step 2.6) may be included as part of the readme
     file.
-
--   
-
-    Examples of good readme files:
-
-    :   -   <http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Carolyn_Lawrence_Dill_G2F_Mar_2017/_readme.txt>
-        -   <http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Liang_Schnable_UNLPlantVision_2017/readMe.txt>
+-   Examples of good readme files:
+    -   <http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Carolyn_Lawrence_Dill_G2F_Mar_2017/_readme.txt>
+    -   <http://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Liang_Schnable_UNLPlantVision_2017/readMe.txt>
 
 ------------------------------------------------------------------------
 
@@ -124,33 +116,22 @@ Example:
     c.data3/:            Directory containing even more data
     d.analysis_graphs/:  Results, graphs, analyses, and other good stuff
 
-## \-\-\-\-\-\-\-\-\--Next Steps:
+------------------------------------------------------------------------
 
-> 3.  [Add metadata](metadata.html)
-> 4.  [Submit request](submit.html)
-> 5.  [After publication](after.html)
+## Next Steps:
 
-## Additional information, help
-
-The UPenn library offers to organizing data.
-
-DataONE best practices for .
+> 2.  [Add metadata](metadata.html)
+> 3.  [Submit request](submit.html)
+> 4.  [After publication](after.html)
 
 ------------------------------------------------------------------------
 
-\_ [Learning Center Home](http://learning.cyverse.org/)
+## Additional information, help
 
-> \# Use this example to ensure that links open in new tabs, avoiding \#
-> forcing users to leave the document, and making it easy to update
-> links \# In a single place in this document
+The UPenn library offers [this guide](https://guides.library.upenn.edu/datamgmt/fileorg) to organizing data.
 
-> \<a
-> href=\"<https://learning.cyverse.org/projects/cyverse-doi-request-quickstart/en/latest/Additional/naming.html>\"
-> target=\"blank\"\>CyVerse Curated Data Folder-Naming Guidelines\</a\>
+DataONE best practices for [document storage systems](https://old.dataone.org/best-practices/create-manage-and-document-your-data-storage-system).
 
-> \<a href=\"<https://guides.library.upenn.edu/datamgmt/fileorg>\"
-> target=\"blank\"\>this guide\</a\>
+------------------------------------------------------------------------
 
-> \<a
-> href=\"<https://www.dataone.org/best-practices/create-manage-and-document-your-data-storage-system>\"
-> target=\"blank\"\>document storage systems\</a\>
+[Learning Center Home](http://learning.cyverse.org/)
