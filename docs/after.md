@@ -6,19 +6,19 @@
 
 Metadata, the description about your data, is key to getting your dataset noticed in the world wide web. Search engines and bibliographic aggregators index the metadata that you create to obtain a DOI. Thus, it is important that you do the following:
 
-:   -   Make sure the metadata are complete.
-    -   Include precise keywords in the \"Subject\" attribute. - Include
-        descriptive terms about the science and themes involved in your
-        research. These can go in the \"Subject\" attribute, but you can
-        also create additional metadata attributes specific to your
-        dataset.
-    -   Include methods used to generate the dataset in the
-        \"Description\" attribute, and in more detail in a Readme file.
-    -   Describe the dataset for a broader audience so that they
-        understand your research. Use the \"Description\" field for
-        this.
-    -   If you or team members have an ORCID ID, make sure to include it
-        in the metadata.
+-   Make sure the metadata are complete.
+-   Include precise keywords in the "Subject" attribute. - Include
+    descriptive terms about the science and themes involved in your
+    research. These can go in the "Subject" attribute, but you can
+    also create additional metadata attributes specific to your
+    dataset.
+-   Include methods used to generate the dataset in the
+    "Description" attribute, and in more detail in a Readme file.
+-   Describe the dataset for a broader audience so that they
+    understand your research. Use the "Description" field for
+    this.
+-   If you or team members have an ORCID ID, make sure to include it
+    in the metadata.
 
 ## 5.2. Publicize your dataset:
 

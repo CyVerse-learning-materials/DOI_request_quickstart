@@ -2,28 +2,26 @@
 
 # 3. Add metadata
 
-1.  
+1.   Add metadata to the dataset folder
 
-    Add metadata to the dataset folder
-
-    :   a.  In the Data window, click the checkbox next to the folder.
-        b.  Select More actions \> Metadata
-        c.  Select More actions (again) \> View in template
+        a.  In the Data window, click the checkbox next to the folder.
+        b.  Select More actions > Metadata
+        c.  Select More actions (again) > View in template
         d.  Choose the DOI Request - DataCite4.1 metadata template.
         e.  Complete the required fields (marked with an asterisk) and
             as many of the optional fields as possible.
         f.  Save the template.
 
-2.  For more information, including how to apply metadata in bulk, see .
+2.  For more information, including how to apply metadata in bulk, see [Using Metadata in the DE](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview).
 
 3.  You may add any additional metadata that is appropriate. We
     encourage the use of additional metadata to make your data better
     understood and more discoverable.
 
 4.  We encourage the use of metadata on subfolders and individual files
-    in your datasets.
+    in your datasets. :tent::joy:
 
-::: warning
+::: {warning}
 ::: title
 Warning
 :::
