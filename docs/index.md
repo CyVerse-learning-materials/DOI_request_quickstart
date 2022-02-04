@@ -39,9 +39,9 @@ following services/software:*
 *We will use the following CyVerse platform(s):*
 
 |Platform | Interface | Link | Platform Documentation | Quick Start |
-| --- | --- | --- | --- | --- | [Data Store](https://cyverse.org/data-store) | [Data Store Manual](https://cyverse.atlassian.net/wiki/spaces/DS/overview) | [Data Store Guide](https://learning.cyverse.org/projects/data_store_guide/en/latest/) |
-  Data Store | GUI/Command line |                                    
-  Discovery Environment | Web/Point-and-click | [Discovery Environment](https://de.cyverse.org/) | [DE Manual](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview) | [Discovery Environment Guide](https://learning.cyverse.org/projects/discovery-environment-guide/en/latest/) |
+| --- | --- | --- | --- | --- | 
+| [Data Store](https://cyverse.org/data-store) | [Data Store Manual](https://cyverse.atlassian.net/wiki/spaces/DS/overview) | [Data Store Guide](https://learning.cyverse.org/projects/data_store_guide/en/latest/) | Data Store | GUI/Command line |                                    
+| Discovery Environment | Web/Point-and-click | [Discovery Environment](https://de.cyverse.org/) | [DE Manual](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview) | [Discovery Environment Guide](https://learning.cyverse.org/projects/discovery-environment-guide/en/latest/) |
 
 ### Input and example data
 
