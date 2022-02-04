@@ -4,13 +4,13 @@
 
 1.   Add metadata to the dataset folder
 
-        a.  In the Data window, click the checkbox next to the folder.
-        b.  Select More actions > Metadata
-        c.  Select More actions (again) > View in template
-        d.  Choose the DOI Request - DataCite4.1 metadata template.
-        e.  Complete the required fields (marked with an asterisk) and
-            as many of the optional fields as possible.
-        f.  Save the template.
+    a.  In the Data window, click the checkbox next to the folder.
+    b.  Select More actions > Metadata
+    c.  Select More actions (again) > View in template
+    d.  Choose the DOI Request - DataCite4.1 metadata template.
+    e.  Complete the required fields (marked with an asterisk) and
+        as many of the optional fields as possible.
+    f.  Save the template.
 
 2.  For more information, including how to apply metadata in bulk, see [Using Metadata in the DE](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview).
 
@@ -23,8 +23,7 @@
     <style>
     .emoji-big-size img {font-size: 4rem;}
     </style>
-
-{: .emoji-big-size}
+    {: .emoji-big-size}
 
 My important paragraph.
 {: .alert .alert-info}
