@@ -10,7 +10,7 @@ and unchangeable, making it ideal for data citation. Because the data is
 stored in large-scale storage resources that are monitored 24/7, it is
 secure. Because it allows transfer, upload, and download across
 different computers and platforms, it can store very large datasets. And
-because its data is accessible to CyVerse\'s suite of large-scale
+because its data is accessible to CyVerse's suite of large-scale
 computational analysis resources, users can seamlessly analyze, manage,
 and publish new results. For more information, see [Is CyVerse Curated
 Data Right for My
@@ -137,7 +137,7 @@ account to publish your data in the Data Commons repositories (Community
 Contributed or Curated Data). You do not have to be a user of the entire
 platform, but at minimum you must be able to upload data, add metadata,
 and use the Discovery Environment to request a DOI. If you have not used
-the DE\'s metadata features before, start with [Using Metadata in the
+the DE's metadata features before, start with [Using Metadata in the
 DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Metadata+in+the+DE)
 and read the section on metadata templates.
 
@@ -188,7 +188,7 @@ template includes places to list ORCIDs of the creator. The DOI creation
 metadata template has a place for ORCIDs of creators and contributors.
 
 If you have published a paper that goes with your data, be sure to cite
-the DOI in the paper. Provide a link to the paper\'s DOI in the metadata
+the DOI in the paper. Provide a link to the paper's DOI in the metadata
 under "relatedIdentifier".
 
 If your data includ specific instructions for citing or reuse, to
@@ -208,9 +208,9 @@ does not need to be the person who is submitting the identifier request.
 The institution or person responsible for collecting, managing,
 distributing, or otherwise contributing to the development of the
 resource. To supply multiple contributors, repeat this property. For
-software, if there is an alternate entity that \"holds, archives,
-publishes, prints, distributes, releases, issues, or produces\" the
-code, use the contributorType \"hostingInstitution\" for the code
+software, if there is an alternate entity that "holds, archives,
+publishes, prints, distributes, releases, issues, or produces" the
+code, use the contributorType "hostingInstitution" for the code
 repository.
 
 You must include the role of all contributors. Choose from the dropdown
@@ -253,7 +253,7 @@ Therefore, we encourage you to include additional metadata. We suggest
 that you include the metadata records and other help documents in your
 publication package within a folder labeled as "metadata" so it is
 easily identifiable for other users. Consider taking advantage of the
-DE\'s bulk metadata application feature for adding file level metadata,
+'s bulk metadata application feature for adding file level metadata,
 especially for large datasets.
 
 ------------------------------------------------------------------------
@@ -271,7 +271,7 @@ for more details on how to prepare your data for publication.
 If you need to make changes
 to the metadata of a dataset with a DOI, contact us at
 <doi@cyverse.org>. If your dataset is connected to a paper that is
-published after the DOI is created, please contact us with the paper\'s
+published after the DOI is created, please contact us with the paper's
 DOI so we can link it in the metadata.
 
 ------------------------------------------------------------------------

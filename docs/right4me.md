@@ -7,12 +7,12 @@ through the Data Commons, answer the following series of questions.**
 
 ## Question 1: Do you have a CyVerse account?
 
-- Are you a registered CyVerse user? If not, register at .
+- Are you a registered CyVerse user? If not, register at [user.cyverse.org](https://user.cyverse.org/).
 - If so, have you used the Discovery Environment (DE)?
 - The tools for submitting data to Data Commons Curated Data are
     simple to use and available as part of the DE. At a minimum, you
-    should be able to upload and organize your data using the DE or ,
-    and be able to apply a .
+    should be able to upload and organize your data using the DE or [iCommands](https://learning.cyverse.org/projects/data_store_guide/en/latest/step2.html),
+    and be able to apply a [metadata template](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview).
 
 ## Question 2: Is your data ready for publication?
 

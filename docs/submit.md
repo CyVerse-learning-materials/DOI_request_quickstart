@@ -40,7 +40,7 @@
 > dataset location.
 
 
-> #### Tip: 
+> #### Tip
 > To check the status of your request, click Notifications (the bell icon) at the top right of the DE screen. For more information on using notifications in the DE, see.
 
 ------------------------------------------------------------------------

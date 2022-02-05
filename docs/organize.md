@@ -109,7 +109,7 @@ Describe the file naming conventions, if that is helpful.
                          Also contains a list and description for the contents of the top-level directory (unless a separate inventory file is provided)
     License.txt:         License file (e.g., GPL, MIT) that governs the use of the data
     a.data1/:            Directory containing data
-    b.data2/:           Directory containing more data
+    b.data2/:            Directory containing more data
     c.data3/:            Directory containing even more data
     d.analysis_graphs/:  Results, graphs, analyses, and other good stuff
 
@@ -123,11 +123,10 @@ Describe the file naming conventions, if that is helpful.
 
 ------------------------------------------------------------------------
 
-## Additional information, help
+## Additional information
 
-The UPenn library offers [this guide](https://guides.library.upenn.edu/datamgmt/fileorg) to organizing data.
-
-DataONE best practices for [document storage systems](https://old.dataone.org/best-practices/create-manage-and-document-your-data-storage-system).
+- The UPenn library offers [this guide](https://guides.library.upenn.edu/datamgmt/fileorg) to organizing data.
+- DataONE best practices for [document storage systems](https://old.dataone.org/best-practices/create-manage-and-document-your-data-storage-system).
 
 ------------------------------------------------------------------------
 
