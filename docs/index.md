@@ -17,7 +17,7 @@ unchangeable, thus making them the ideal platform for ease of data reuse
 and data citation. Datasets in the CyVerse Curated Data site can store
 very large datasets that are difficult to transfer, upload, and download
 across different computers and platforms. CyVerse Curated data is
-accessible to CyVerse\'s suite of large-scale computational analysis
+accessible to CyVerse's suite of large-scale computational analysis
 resources, allowing users to seamlessly analyze, manage, and publish new
 results.
 
@@ -52,14 +52,14 @@ own dataset when you are ready to request a DOI.*
 
 ## Get started
 
-1.  [Organize data](organize.html)
-2.  [Add metadata](metadata.html)
-3.  [Submit request](submit.html)
-4.  [After publication](after.html)
+1.  [Organize data](https://cyverse-learning-materials.github.io/DOI_request_quickstart/organize)
+2.  [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
+3.  [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
+4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 
-**Fix or improve this documentation**
+# Fix or improve this documentation
 
 -   Search for an answer: [CyVerse Learning Center](https://learning.cyverse.org/en/latest/)
 -   Ask us for help: click on the lower right-hand side of the page
