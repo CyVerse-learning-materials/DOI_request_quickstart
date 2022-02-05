@@ -47,7 +47,7 @@
 
 ## Next Steps
 
-4\. [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+- 4. [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 
