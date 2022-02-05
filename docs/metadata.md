@@ -22,16 +22,18 @@
     in your datasets.
 
 
-> **_Warning:_** Be sure to include at least 3 subject key words or phrases, so that people can discover your data! **Each subject should be its own field** (click on the plus next to "Subject". **DO NOT use a comma-separated list.**)
+> #### Warning 
+> - Be sure to include at least 3 subject key words or phrases, so that people can discover your data! **Each subject should be its own field** (click on the plus next to "Subject". **DO NOT use a comma-separated list**).
 
-> **Tip:** Get recognition for your work by including [ORCIDs](https://orcid.org/) for yourself and all creators and contributors.
+> #### Tip 
+> Get recognition for your work by including [ORCIDs](https://orcid.org/) for yourself and all creators and contributors.
 
 ------------------------------------------------------------------------
 
 ## Next Steps
 
-> 3.  [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
-> 4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+3.  [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
+4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 

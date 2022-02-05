@@ -25,28 +25,29 @@
     CyVerse and larger scientific community, not the quality of your
     data. This is not a peer review process.
 
-**Possible validation actions:**
+> #### Possible validation actions:
+>
+> - If the curator determines that minor changes are needed, they
+> may make those changes themselves.
+> - If the curator determines that substantive changes are needed,
+> they will contact you with required changes.
+> - If the curator determines that your dataset is not appropriate
+> for the Curated Data section of the Data Commons (e.g., because
+> it belongs in NCBI), you will be notified.
+> -  If the curator determines that the dataset is adequately
+> organized and the DataCite metadata are accurate, they will
+> provide a DOI, and you will be notified of the DOI and the final
+> dataset location.
 
--   If the curator determines that minor changes are needed, they
-        may make those changes themselves.
--   If the curator determines that substantive changes are needed,
-        they will contact you with required changes.
--   If the curator determines that your dataset is not appropriate
-        for the Curated Data section of the Data Commons (e.g., because
-        it belongs in NCBI), you will be notified.
--   If the curator determines that the dataset is adequately
-        organized and the DataCite metadata are accurate, they will
-        provide a DOI, and you will be notified of the DOI and the final
-        dataset location.
 
-
-> **Tip:** To check the status of your request, click Notifications (the bell icon) at the top right of the DE screen. For more information on using notifications in the DE, see.
+> #### Tip: 
+> To check the status of your request, click Notifications (the bell icon) at the top right of the DE screen. For more information on using notifications in the DE, see.
 
 ------------------------------------------------------------------------
 
-## Next Steps:
+## Next Steps
 
-> 4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 

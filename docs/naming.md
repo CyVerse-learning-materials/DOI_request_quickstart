@@ -10,12 +10,12 @@ practices described on this page.
 - Folder names must be unique. In the case of a conflict with an existing dataset, your subject
 can be modified slightly. 
 - No invalid characters: Be sure there are **no spaces or special characters in the folder name**; for more
-information, see [Using Special Characters in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE.) 
+information, see [Using Special Characters in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE). 
 - Use underscores between each segment.
 
 ------------------------------------------------------------------------
 
-# Format
+## Format
 
 **\$Creator_\$subject_\$date**
 
@@ -58,9 +58,9 @@ field (the creator's name) with a capital letter.
 
 ------------------------------------------------------------------------
 
-# Examples
+## Examples
 
-## Correct examples
+### Correct examples
 
 The following will pass the folder name validation check:
 
@@ -70,9 +70,9 @@ The following will pass the folder name validation check:
 -   Esteva_Walls_yam_genomic_variation_Jun2016
 -   YamConsortium_Dioscorea_variation_Nov2017
 
-## Counter examples
+### Counter examples
 
-### Invalid
+#### Invalid
 
 The following will fail the folder name validation check:
 
@@ -83,7 +83,7 @@ The following will fail the folder name validation check:
 -   Walls_yam_variation_2016#1 (Contains a special character)
 -   Walls YamVariation 2020 (Contains spaces)
 
-### Not recommended
+#### Not recommended
 
 Although the following will pass validation, they are not recommended
 because the subject is too vague or too detailed:
