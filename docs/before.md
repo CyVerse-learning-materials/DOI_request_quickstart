@@ -10,7 +10,7 @@ unchangeable, thus making them the ideal platform for ease of data reuse
 and data citation. Datasets in the CyVerse Curated Data site can store
 very large datasets that are difficult to transfer, upload, and download
 across different computers and platforms. CyVerse Curated data is
-accessible to CyVerse\'s suite of large-scale computational analysis
+accessible to CyVerse's suite of large-scale computational analysis
 resources, allowing users to seamlessly analyze, manage, and publish new
 results.
 

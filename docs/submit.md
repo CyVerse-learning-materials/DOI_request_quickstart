@@ -7,7 +7,7 @@
 -   In the Data tab, click the checkbox next to the folder.
 -   Select More actions \> Request DOI.
 -   After verifying you have read the instructions (i.e. this guide),
-    click \"I need a DOI\". You will receive a verification email that
+    click "I need a DOI". You will receive a verification email that
     your request has been received, and a notification will be listed in
     the Notifications list in the DE.
 
@@ -47,7 +47,7 @@
 
 ## Next Steps
 
-4. [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+4\. [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 
