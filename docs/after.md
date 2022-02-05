@@ -1,8 +1,8 @@
 [Learning Center Home](http://learning.cyverse.org/)
 
-# 5. After publication
+# 4. After publication
 
-## 5.1. Get your dataset noticed.
+## 4.1. Get your dataset noticed
 
 Metadata, the description about your data, is key to getting your dataset noticed in the world wide web. Search engines and bibliographic aggregators index the metadata that you create to obtain a DOI. Thus, it is important that you do the following:
 
@@ -20,7 +20,7 @@ Metadata, the description about your data, is key to getting your dataset notice
 -   If you or team members have an ORCID ID, make sure to include it
     in the metadata.
 
-## 5.2. Publicize your dataset:
+## 4.2. Publicize your dataset
 
 -   Consider using social media to share the DOI of your dataset, and
     tag CyVerse.

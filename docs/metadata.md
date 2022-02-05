@@ -1,21 +1,16 @@
 [Learning Center Home](http://learning.cyverse.org/)
 
-# 3. Add metadata
+# 2. Add metadata
 
 1.   Add metadata to the dataset folder
 
-    a.  In the Data window, click the checkbox next to the folder.
-    
-    b.  Select More actions > Metadata
-    
-    c.  Select More actions (again) > View in template
-    
-    d.  Choose the DOI Request - DataCite4.1 metadata template.
-    
-    e.  Complete the required fields (marked with an asterisk) and
+    1.  In the Data window, click the checkbox next to the folder.    
+    2.  Select More actions > Metadata
+    3.  Select More actions (again) > View in template
+    4.  Choose the DOI Request - DataCite4.1 metadata template.
+    5.  Complete the required fields (marked with an asterisk) and
         as many of the optional fields as possible.
-    
-    f.  Save the template.
+    6.  Save the template.
 
 2.  For more information, including how to apply metadata in bulk, see [Using Metadata in the DE](https://cyverse.atlassian.net/wiki/spaces/DEmanual/overview).
 
@@ -33,9 +28,11 @@
 
 ------------------------------------------------------------------------
 
-## Next Steps:
+## Next Steps
 
-> 4.  [Submit request](submit.html)
-> 5.  [After publication](after.html)
+> 3.  [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
+> 4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+
+------------------------------------------------------------------------
 
 [Learning Center Home](http://learning.cyverse.org/)

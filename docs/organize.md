@@ -9,7 +9,7 @@ file and data inventory.
 
 ------------------------------------------------------------------------
 
-## 1.1. Determine what to include:
+## 1.1. Determine what to include
 
 A data collection may be composed of multiple files and different
 datasets. In preparing your data for publication identify the data and
@@ -29,7 +29,7 @@ your research:
 
 ------------------------------------------------------------------------
 
-## 1.2. Determine how many permanent identifiers to request:
+## 1.2. Determine how many permanent identifiers to request
 
 To determine how many DOIs to request for a given data collection,
 consider the following:
@@ -47,7 +47,7 @@ consider the following:
 
 ------------------------------------------------------------------------
 
-## 1.3. Organize your data into folder(s):
+## 1.3. Organize your data into folder(s)
 
 1.  Organize your data so that there is one folder for each DOI, named
     according to step 2.4.
@@ -61,15 +61,15 @@ consider the following:
 
 ------------------------------------------------------------------------
 
-## 1.4. Name your top level folder according to the guidelines:
+## 1.4. Name your top level folder according to the guidelines
 
-The folder containing your dataset should be named using the $Creator_$subject_$date format.
+The folder containing your dataset should be named using the \$Creator_\$subject_\$date format.
 
-For more details on folder naming, see the [CyVerse Curated Data Folder-Naming Guidelines](naming).
+For more details on folder naming, see the [CyVerse Curated Data Folder-Naming Guidelines](https://cyverse-learning-materials.github.io/DOI_request_quickstart/naming).
 
 ------------------------------------------------------------------------
 
-## 1.5. Create a ReadMe file:
+## 1.5. Create a ReadMe file
 
 Create a text file labeled "readMe" with the following information:
 
@@ -83,7 +83,7 @@ Create a text file labeled "readMe" with the following information:
 
 ------------------------------------------------------------------------
 
-## 1.6. Create an inventory:
+## 1.6. Create an inventory
 
 You must create a plain text document that includes an inventory of the
 contents of the organized dataset (at a minimum, your dataset will
@@ -102,7 +102,7 @@ Describe the file naming conventions, if that is helpful.
 
 ------------------------------------------------------------------------
 
-## 1.7. Example:
+## Example
 
     Lyons_DOI-Example-Aug2020:  Top level directory name
     README.txt:          Plain text file that describes the origin of the data, experiments, data processing, etc.
@@ -115,11 +115,11 @@ Describe the file naming conventions, if that is helpful.
 
 ------------------------------------------------------------------------
 
-## Next Steps:
+## Next Steps
 
-> 2.  [Add metadata](metadata.html)
-> 3.  [Submit request](submit.html)
-> 4.  [After publication](after.html)
+> 2.  [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
+> 3.  [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
+> 4.  [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 

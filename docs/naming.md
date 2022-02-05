@@ -17,7 +17,7 @@ information, see [Using Special Characters in the DE](https://wiki.cyverse.org/w
 
 # Format
 
-**$Creator_$subject_$date**
+**\$Creator_\$subject_\$date**
 
 **\$Creator:**
 
@@ -26,7 +26,7 @@ information, see [Using Special Characters in the DE](https://wiki.cyverse.org/w
 
 - The Creator is the lead author, the senior author, or the
 organization with the primary responsibility for the dataset. Start the
-field (the creator\'s name) with a capital letter.
+field (the creator's name) with a capital letter.
 
 **Co-creators:**
 
