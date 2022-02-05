@@ -33,4 +33,12 @@ Metadata, the description about your data, is key to getting your dataset notice
 
 ------------------------------------------------------------------------
 
+# Additional information, help
+
+- [Permanent Identifier FAQs](https://cyverse-learning-materials.github.io/DOI_request_quickstart/doi_faq)
+- [Is Data Commons Curated Data right for my data?](https://cyverse-learning-materials.github.io/DOI_request_quickstart/right4me)
+- [Search for an answer: CyVerse Learning Center](https://learning.cyverse.org/en/latest/)
+
+------------------------------------------------------------------------
+
 [Learning Center Home](http://learning.cyverse.org/)
