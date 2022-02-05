@@ -117,9 +117,9 @@ Describe the file naming conventions, if that is helpful.
 
 ## Next Steps
 
-- 2. [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
-- 3. [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
-- 4. [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+- 2) [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
+- 3) [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
+- 4) [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 
