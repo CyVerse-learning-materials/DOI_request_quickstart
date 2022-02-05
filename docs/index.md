@@ -9,19 +9,6 @@ requesting a DOI.
 
 ------------------------------------------------------------------------
 
-::: {.toctree maxdepth="1"}
-Quickstart home \<self\> 1. Before you start \<before.rst\> 2. Organize
-data \<organize.rst\> 3. Add metadata \<metadata.rst\> 4. Submit request
-\<submit.rst\> 5. After publication \<after.rst\>
-:::
-
-## Additional information
-- Is the CyVerse Curated Data Repository right for my data?
-- Data Commons Naming Conventions
-- DOI Frequently Asked Questions
-
-------------------------------------------------------------------------
-
 ## Before you start
 
 CyVerse Curated Data in the Data Commons contains files that have been
@@ -65,17 +52,10 @@ own dataset when you are ready to request a DOI.*
 
 ## Get started
 
-> 1.  [Background - before you start](before.html)
-> 2.  [Organize data](organize.html)
-> 3.  [Add metadata](metadata.html)
-> 4.  [Submit request](submit.html)
-> 5.  [After publication](after.html)
-
-------------------------------------------------------------------------
-
-### Additional information, help
-
-Search for an answer:
+1.  [Organize data](organize.html)
+2.  [Add metadata](metadata.html)
+3.  [Submit request](submit.html)
+4.  [After publication](after.html)
 
 ------------------------------------------------------------------------
 
