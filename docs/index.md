@@ -13,12 +13,12 @@ requesting a DOI.
 
 CyVerse Curated Data in the Data Commons contains files that have been
 assigned a permanent identifier ([DOI](https://www.doi.org/)). These files are secure, stable, and
-unchangeable, thus making them the ideal platform for ease of data reuse
-and data citation. Datasets in the CyVerse Curated Data site can store
+unchangeable, thus making them ideal subjects for ease of data reuse
+and data citation. CyVerse Curated Data can store
 very large datasets that are difficult to transfer, upload, and download
-across different computers and platforms. CyVerse Curated data is
-accessible to CyVerse's suite of large-scale computational analysis
-resources, allowing users to seamlessly analyze, manage, and publish new
+across different computers and platforms. You can access CyVerse Curated Data from
+CyVerse's suite of large-scale computational analysis
+resources, allowing you to seamlessly analyze, manage, and publish new
 results.
 
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ results.
 
 ### Downloads, access, and services
 
-*In order to complete this tutorial you will need access to the
+*In order to complete this tutorial, you will need access to the
 following services/software:*
 
 | Prerequisite | Preparation/Notes | Link/Download |
@@ -52,10 +52,10 @@ own dataset when you are ready to request a DOI.*
 
 ## Get started
 
-- 1) [Organize data](https://cyverse-learning-materials.github.io/DOI_request_quickstart/organize)
-- 2) [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
-- 3) [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
-- 4) [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+1) [Organize data](https://cyverse-learning-materials.github.io/DOI_request_quickstart/organize)
+2) [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
+3) [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
+4) [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
 
 ------------------------------------------------------------------------
 
