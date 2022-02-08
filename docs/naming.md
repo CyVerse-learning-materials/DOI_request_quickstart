@@ -7,11 +7,11 @@ reason), the folder that contains the dataset must follow the naming
 practices described on this page.
 
 ## General guidelines
-- Folder names must be unique. In the case of a conflict with an existing dataset, your subject
-can be modified slightly. 
+- Folder names must be unique. In the case of a conflict with an existing dataset, you can modify your subject
+slightly. 
 - No invalid characters: Be sure there are **no spaces or special characters in the folder name**; for more
 information, see [Using Special Characters in the DE](https://wiki.cyverse.org/wiki/display/DEmanual/Using+Special+Characters+in+the+DE). 
-- Use underscores between each segment.
+- Use underscores between each segment of the folder name (e.g., \$Creator_\$subject_\$date).
 
 ------------------------------------------------------------------------
 
@@ -30,9 +30,9 @@ field (the creator's name) with a capital letter.
 
 **Co-creators:**
 
--   If two co-creators, okay to use both names, separated by an
-    underscore or using camel case.
--   If three or more co-creators, select only one name or use a
+-   If there are two co-creators, you can use both names, either separated by an
+    underscore (e.g., Walls_Lee) or use camel case (e.g., WallsLee).
+-   If there are three or more co-creators, select only one name or use a
     consortium name. Other contributors should be acknowledged in the
     metadata (as creators or contributors), which will display on the
     dataset landing page.
@@ -41,20 +41,20 @@ field (the creator's name) with a capital letter.
 
 -   Very briefly describes what the dataset is about.
 -   If the subject is more than one word, use either camel case
-    (example: camelCase) or underscores (example:
+    (e.g., camelCase) or underscores (e.g.,
     underscore_between_words) to separate the words.
 -   If another folder has the exact same name, you may modify the
     subject slightly to maintain uniqueness.
 
 **$date:**
 
--   Either just the year, or the month and year, in which the dataset
+-   Either use just the year, or the month and year, in which the dataset
     was created.
 -   Month and year should be used only if there is likely to be more
     than one dataset with the same creator and subject within the same
     year.
 -   Month must be a three-letter abbreviation: Jan, Feb, Mar, Apr, May,
-    Jun, Jul, Aug, Sep, Nov, Dec
+    Jun, Jul, Aug, Sep, Oct, Nov, Dec
 
 ------------------------------------------------------------------------
 
@@ -80,12 +80,13 @@ The following will fail the folder name validation check:
     the subject)
 -   Esteva_yam_variation_June2016 (Month should be three letters: Jun)
 -   YamConsortium_Nov2017 (No subject)
--   Walls_yam_variation_2016#1 (Contains a special character)
+-   Walls_yam_variation_2016#1 (Contains a special character: #)
 -   Walls YamVariation 2020 (Contains spaces)
+-   walls_yamVariation_2016 (no initial capital on creator name)
 
 #### Not recommended
 
-Although the following will pass validation, they are not recommended
+Although the following examples will pass validation, they are not recommended
 because the subject is too vague or too detailed:
 
 -   Walls_variation_2016 (Subject too vague)
