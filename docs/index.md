@@ -18,8 +18,15 @@ and data citation. CyVerse Curated Data can store
 very large datasets that are difficult to transfer, upload, and download
 across different computers and platforms. You can access CyVerse Curated Data from
 CyVerse's suite of large-scale computational analysis
-resources, allowing you to seamlessly analyze, manage, and publish new
+resources, allowing you to seamlessly reuse, analyze, and manage data, and publish new
 results.
+
+------------------------------------------------------------------------
+
+## Quickstart Maintainer
+
+The CyVerse Learning Team maintains this document. If this Quickstart needs fixing, please email us at
+[learning@CyVerse.org](learning@CyVerse.org).
 
 ------------------------------------------------------------------------
 
