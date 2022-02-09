@@ -59,10 +59,10 @@ own dataset when you are ready to request a DOI.*
 
 ## Get started
 
-1) [Organize data](https://cyverse-learning-materials.github.io/DOI_request_quickstart/organize)
-2) [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata)
-3) [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit)
-4) [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after)
+1. [Organize data](https://cyverse-learning-materials.github.io/DOI_request_quickstart/organize). 
+3. [Add metadata](https://cyverse-learning-materials.github.io/DOI_request_quickstart/metadata). 
+4. [Submit request](https://cyverse-learning-materials.github.io/DOI_request_quickstart/submit). 
+5. [After publication](https://cyverse-learning-materials.github.io/DOI_request_quickstart/after). 
 
 ------------------------------------------------------------------------
 
